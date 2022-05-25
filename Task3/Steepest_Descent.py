@@ -31,12 +31,9 @@ if __name__ == "__main__":
     #shows the plot
     plt.show()
 
-    initial_x = 0.5
-    initial_y = 0.5
-    current_x = 0.0
-    current_y = 0.0
+    current_x = 0.5
+    current_y = 0.5
     iteration_count = 0
     step_multiplier = 1.0
-    # while(step_size < 0.5 || iteration_count < 10)
-    # for
-    # f_x, f_y = Derivatives(initial_x, initial_y)
+    #while(step_size < 0.5 || iteration_count < 10):
+
