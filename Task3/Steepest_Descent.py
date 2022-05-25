@@ -11,8 +11,8 @@ def Derivatives(x, y):
     f_y = 200 * (y - x ** 2)
     return f_x , f_y
 
-def Steepest_Gradient_Descent(step_dampener, step_multiplier, f_x, f_y):
-    return 0
+# def Steepest_Gradient_Descent(step_dampener, step_multiplier, f_x, f_y):
+#     return 0
 
 if __name__ == "__main__":
     Rosenbrock_result = []
@@ -31,12 +31,12 @@ if __name__ == "__main__":
     #shows the plot
     plt.show()
 
-    # initial_x = 0.5
-    # initial_y = 0.5
-    # current_x = 0.0
-    # current_y = 0.0
-    # counter = 0
-    # step_multiplier = 1.0
-    # while(step_size < 0.5 || counter < 10)
+    initial_x = 0.5
+    initial_y = 0.5
+    current_x = 0.0
+    current_y = 0.0
+    iteration_count = 0
+    step_multiplier = 1.0
+    # while(step_size < 0.5 || iteration_count < 10)
     # for
     # f_x, f_y = Derivatives(initial_x, initial_y)
