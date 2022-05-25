@@ -18,11 +18,11 @@ def Calculate_Lotka_Volterra(initial_predator, initial_prey, time_steps, alpha, 
     return prey, predator
 
 def main():
-    alpha = 0.1
-    beta = 0.02
-    delta = 0.02
-    gamma =  0.4
-    initial_predator = 10
+    alpha = [0.1, 0.2, 0.3, 0.4]
+    beta = [0.02, 0.03, 0.04, 0.05]
+    delta = [0.02, 0.03, 0.04, 0.05]
+    gamma =  [0.4, 0.5, 0.6, 0.7]
+    initial_predator = [10, 100, 1000]
     initial_prey = 10
     time_steps = 200
     prey, predator = Calculate_Lotka_Volterra(initial_predator, initial_prey, time_steps, alpha, beta, delta, gamma)

@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 #dR(t)/dt = gamma * I(t)]
 
 
-def calculate_SIR(time_steps, param, initial_population, initial_infected_people, alpha, beta, gamma):
+def calculate_SIR(time_steps, initial_population, initial_infected_people, alpha, beta, gamma):
     S = []
     I = []
     R = []
