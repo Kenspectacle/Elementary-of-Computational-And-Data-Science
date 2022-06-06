@@ -1,0 +1,61 @@
+1. 
+Lateral Thinking - Trying to look at it in another point of view
+2. 
+Lateral Thinking - Why it should work like that
+Trial - And - Error - easy to reproduce and try it out yourself
+Hypothesis test - same reason as above
+3.
+Research - find out the law about this situation
+4.
+Abstraction - make a simpler model of this problem
+5.
+Analogy - see possible comparison and why it is plausible
+6.
+Means-End Analysis - look at how to solve this problem and go through it step by step
+7.
+Means-End Analysis - look at how to solve this problem and go through it step by step
+8.
+Lateral Thinking - Think outside of the box
+Brainstorming - See possible solutions and try to get the best one possible
+9. 
+Abstraction - Think in simpler way
+10.
+Divide and Conquer - divide the problem based on the rungs
+Means-End Analysis - Solve the problem step by step once divided
+11.
+Brainstorming - Think why it has possible answers and find the optimal one
+Research - Crosschecking the facts
+12.
+Morphological Analysis - Check the relationship of the parameters in this case
+13.
+Lateral Thinking - Think a little bit logically
+Abstraction - Think of the problem itself as a set of array instead of real people with hats
+14.
+Analogy - Reason with the mind of the policemen
+Method of Focal Object - think of non-orthodox reasoning why that can possible be possible
+15.
+Abstraction - Look at the grammar and think of it in Discrete Math boolean algebra
+16.
+Abstraction - ordinary differential equation
+Reduction - change it into Newtonian energy equations
+17.
+Research - each federal state are different
+18.
+Abstraction - Make Mathematical model out of it
+19.
+Analogy - Think of a dozen of cows and a dozen of goats, they are still a dozen despite being different
+20.
+Brainstorming - it can be due to different reasons, that Alice might win even more because of psychological burden imposed on Bonnie
+21.
+Research - Irrelevant how the barber look, reviews and statistic reveals much more of their abilities
+22.
+Lateral Thinking - the route taken from the original location to the destination, and the destination to the original location could be different
+23.
+Abstraction - Model it in terms of X and Y equation, then try to solve it for both X(baseball) and Y(bat)
+24.
+Abstraction - We look at how much the productivity of each machine is and try to look it for how many units there are
+Brainstorming - There maybe some reason why the machines cannot work in parallel(ex. Bottlenecks)
+25.
+Abstraction - change it into mathematical model
+Reduction - Look at it in a simple way, how long does it take to double in size, such that it can go to full size from half size
+
